@@ -1,18 +1,18 @@
 <img src="https://github.com/user-attachments/assets/771264bf-60dc-46db-bd62-2f0d790b0e11" width="20%" height="10%">
 <body>
 
-<h3> Radionode RN630-Series via LoraWan</h3>
+<h3> RN630-AFG</h3>
 <table>
     <tr>
         <th>Model Description</th>
-        <th>Spec.</th>
+        <th>Wireless Telecommunications</th>
     </tr>
     <tr>
         <td>
-            • RN630-KFG : Temp/RH Model <br>
-            • RN630-AFG : Temp/RH Model <br>
+           Temperature/Humidity Transmitter<br>
+            • CH1 : Temperature <br>
+	    • CH2 : Humidity<br>
         </td>
-        <td>Long Range Wireless / LoraWAN ® </td>
+        <td>Long Range Wireless / LoraWAN ®</td>
     </tr>
 </table>
-
