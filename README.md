@@ -9,7 +9,7 @@
     </tr>
     <tr>
         <td>
-            • RN630-KFG : Temp/RH Model <br>
+            • RN630-KFG : 4 Gas Density Model <br>
             • RN630-AFG : Temp/RH Model <br>
         </td>
         <td>Long Range Wireless / LoraWAN ® </td>
