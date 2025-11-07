@@ -9,9 +9,15 @@
     </tr>
     <tr>
         <td>
-           Temperature/Humidity Transmitter<br>
-            • CH1 : Temperature <br>
-	    • CH2 : Humidity<br>
+           4 Gas Density Transmitter<br>
+            • CH1 : CO <br>
+	        • CH2 : CO2<br>
+	        • CH3 : O2<br>
+	        • CH4 : H2S<br>
+	        • CH5 : Temperature<br>
+	        • CH6 : Humidity<br>
+	        • CH7 : SOS/ManDown<br>
+	        • CH8 : Feels like temperature<br>
         </td>
         <td>Long Range Wireless / LoraWAN ®</td>
     </tr>
